@@ -54,19 +54,27 @@ export default function Home() {
               </Link>
             </li>
             <li>
-              <Link href="https://www.teach-anything.com/?ref=lawcnai" className='dark:bg-white/30
+              <Link href="https://qhgpt.aihub.ren/" className='dark:bg-white/30
               dark:border-slate-900
               dark:text-slate-900 text-slate-400  border border-slate-300/30 transition-all hover:bg-white/50 hover:backdrop-blur-md py-2.5 rounded-md block'>
-                <Image src={'/TeachAnything.png'} width={100} height="20" className='w-full mb-1 h-5 object-contain' alt="Teach Anything - AI 百科全书" />
-                AI 百科全书
+                <Image src={'/qhjpt.png'} width={100} height="20" className='w-full mb-1 h-5 object-contain' alt="qhjpt - 基于GPT的赛博佛祖" />
+                基于GPT的赛博佛祖
               </Link>
             </li>
             <li>
-              <Link href="https://openl.io/?ref=lawcnai" className='dark:bg-white/30
+              <Link href="https://ai.12348.gov.cn/pc/" className='dark:bg-white/30
               dark:border-slate-900
               dark:text-slate-900 text-slate-400  border border-slate-300/30 transition-all hover:bg-white/50 hover:backdrop-blur-md py-2.5 rounded-md block'>
-                <Image src={'/OpenL.png'} width={100} height="20" className='w-full mb-1 h-5 object-contain' alt="OpenL - AI 翻译专家" />
-                AI 翻译专家
+                <Image src={'/zfw.png'} width={100} height="20" className='w-full mb-1 h-5 object-contain' alt="zfw - 智能法律咨询" />
+                智能法律咨询
+              </Link>
+            </li>
+            <li>
+              <Link href="https://flk.npc.gov.cn/index.html" className='dark:bg-white/30
+              dark:border-slate-900
+              dark:text-slate-900 text-slate-400  border border-slate-300/30 transition-all hover:bg-white/50 hover:backdrop-blur-md py-2.5 rounded-md block'>
+                <Image src={'/gjfl.png'} width={100} height="20" className='w-full mb-1 h-5 object-contain' alt="gjfl - 国家法律法规数据库" />
+                国家法律法规数据库
               </Link>
             </li>
           </ul>
