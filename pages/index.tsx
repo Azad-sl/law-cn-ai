@@ -84,7 +84,7 @@ export default function Home() {
           <div className="flex items-center justify-center space-x-6 mt-4 md:m-0">
             <div className="opacity-75 transition hover:opacity-100 cursor-pointer">
               <Link
-                href="https://github.com/lvwzhen/law-cn-ai"
+                href="http://www.azad.asia/"
                 className="flex items-center justify-center"
               >
                 <Image src={'/github.svg'} width="24" height="24" alt="Github logo" />
@@ -92,7 +92,7 @@ export default function Home() {
             </div>
             <div className="opacity-75 transition hover:opacity-100 cursor-pointer">
               <Link
-                href="https://twitter.com/lvwzhen"
+                href="http://other.azad.asia/"
                 className="flex items-center justify-center"
               >
                 <Image src={'/twitter.svg'} width="24" height="24" alt="Twitter logo" />
